@@ -7,5 +7,5 @@ function onSignIn(googleUser) {
 }
 
 function show(){
-  alert("test")
+  alert("test!")
 }
